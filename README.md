@@ -5,12 +5,12 @@ Welcome to my data science portfolio! Here, you’ll find a collection of projec
 
 📊 Projects
 1. [NBA Top Shot NFT Pricing with Machine Learning](https://github.com/shooshooting/NBA_TopShot_NFT_ML)  
-Description: Built predictive models to analyze and predict the pricing of NBA Top Shot NFTs using historical market data.  
+Description: Built predictive models to analyze and predict the pricing of NBA Top Shot NFTs using historical market data. This project provides pricing insights that could guide investment decisions in the NFT market.
 Skills & Tools: Python, Machine Learning (Random Forest, XGBoost), Data Cleaning, Feature Engineering, Visualization with Matplotlib and Seaborn.  
 Highlights: Demonstrated the application of machine learning to dynamic pricing problems, showcasing proficiency in model evaluation and improvement.  
 
 2. [Amazon Delivery Data Mining](https://github.com/shooshooting/Amazon_Delivery_Data_Mining)  
-Description: Conducted data mining and time-series analysis to optimize delivery operations and identify seasonal trends.  
+Description: Conducted data mining and time-series analysis to optimize delivery operations and identify seasonal trends. By optimizing resource allocation, we can reduce delivery times and improve customer satisfaction. 
 Skills & Tools: Python, Time-Series Analysis, ETL Pipelines.  
 Highlights: Optimized data pipelines for scalable analysis and provided actionable insights into resource allocation and demand balancing.  
 
@@ -43,7 +43,11 @@ I am passionate about leveraging data to drive impactful decisions and empower i
 - Data Science: Solving complex problems with machine learning and advanced analytics.  
 - Data Engineering: Building robust pipelines to ensure the accessibility and reliability of data.  
 - Data Analytics: Unlocking the potential of data by identifying trends, creating actionable reports, and developing visualizations that inform business strategies.  
-- AI Product Development: Designing and implementing AI-driven solutions, such as chatbots and predictive systems, to deliver measurable impact and enhance decision-making.  
+- AI Product Development: Designing and implementing AI-driven solutions, such as chatbots and predictive systems, to deliver measurable impact and enhance decision-making.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
+  
 
 📬 Let’s Connect  
 I am always excited to discuss data-driven projects, share ideas, or collaborate! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shu-ting-lin/) or reach out via email at linshuting2016@gmail.com.
