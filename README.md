@@ -26,6 +26,7 @@ Highlights: Showcased exploratory data analysis (EDA) and the ability to extract
 
 
 🚀 Relevant Experience & Skills
+
 While these projects illustrate my technical range, my professional experience has allowed me to apply these skills to real-world challenges, such as:
 
 Data Engineering: Designing scalable ETL pipelines and managing large datasets.
