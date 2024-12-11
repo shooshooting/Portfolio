@@ -45,9 +45,6 @@ I am passionate about leveraging data to drive impactful decisions and empower i
 - Data Analytics: Unlocking the potential of data by identifying trends, creating actionable reports, and developing visualizations that inform business strategies.  
 - AI Product Development: Designing and implementing AI-driven solutions, such as chatbots and predictive systems, to deliver measurable impact and enhance decision-making.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
-  
 
 📬 Let’s Connect  
 I am always excited to discuss data-driven projects, share ideas, or collaborate! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shu-ting-lin/) or reach out via email at linshuting2016@gmail.com.
