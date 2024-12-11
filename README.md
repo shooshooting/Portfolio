@@ -4,25 +4,25 @@ Welcome to my data science portfolio! Here, you’ll find a collection of projec
 
 
 📊 Projects
-1. [NBA Top Shot NFT Pricing with Machine Learning](https://github.com/shooshooting/NBA_TopShot_NFT_ML)
-Description: Built predictive models to analyze and predict the pricing of NBA Top Shot NFTs using historical market data.
-Skills & Tools: Python, Machine Learning (Random Forest, XGBoost), Data Cleaning, Feature Engineering, Visualization with Matplotlib and Seaborn.
-Highlights: Demonstrated the application of machine learning to dynamic pricing problems, showcasing proficiency in model evaluation and improvement.
+1. [NBA Top Shot NFT Pricing with Machine Learning](https://github.com/shooshooting/NBA_TopShot_NFT_ML)  
+Description: Built predictive models to analyze and predict the pricing of NBA Top Shot NFTs using historical market data.  
+Skills & Tools: Python, Machine Learning (Random Forest, XGBoost), Data Cleaning, Feature Engineering, Visualization with Matplotlib and Seaborn.  
+Highlights: Demonstrated the application of machine learning to dynamic pricing problems, showcasing proficiency in model evaluation and improvement.  
 
-2. [Amazon Delivery Data Mining](https://github.com/shooshooting/Amazon_Delivery_Data_Mining)
-Description: Conducted data mining and time-series analysis to optimize delivery operations and identify seasonal trends.
-Skills & Tools: Python, Time-Series Analysis, ETL Pipelines.
-Highlights: Optimized data pipelines for scalable analysis and provided actionable insights into resource allocation and demand balancing.
+2. [Amazon Delivery Data Mining](https://github.com/shooshooting/Amazon_Delivery_Data_Mining)  
+Description: Conducted data mining and time-series analysis to optimize delivery operations and identify seasonal trends.  
+Skills & Tools: Python, Time-Series Analysis, ETL Pipelines.  
+Highlights: Optimized data pipelines for scalable analysis and provided actionable insights into resource allocation and demand balancing.  
 
-4. [Coffee Sales Analysis in R](https://github.com/shooshooting/Coffee_Sale_Analysis_R)
-Description: Analyzed coffee sales data to identify customer purchasing trends and forecast sales.
-Skills & Tools: R, Statistical Analysis, Data Visualization, Predictive Analytics.
-Highlights: Demonstrated statistical techniques and forecasting models to support business decision-making.
+4. [Coffee Sales Analysis in R](https://github.com/shooshooting/Coffee_Sale_Analysis_R)  
+Description: Analyzed coffee sales data to identify customer purchasing trends and forecast sales.   
+Skills & Tools: R, Statistical Analysis, Data Visualization, Predictive Analytics.  
+Highlights: Demonstrated statistical techniques and forecasting models to support business decision-making.  
 
-6. [FIFA 24 Wage Insights](https://github.com/shooshooting/FIFA_24_Wage_Insights)
-Description: Explored FIFA 24 player data to uncover insights about wage distributions, correlations with player attributes, and team-level trends.
-Skills & Tools: Python, Pandas, Data Visualization (Plotly, Seaborn).
-Highlights: Showcased exploratory data analysis (EDA) and the ability to extract insights from sports data.
+6. [FIFA 24 Wage Insights](https://github.com/shooshooting/FIFA_24_Wage_Insights)  
+Description: Explored FIFA 24 player data to uncover insights about wage distributions, correlations with player attributes, and team-level trends.  
+Skills & Tools: Python, Pandas, Data Visualization (Plotly, Seaborn).  
+Highlights: Showcased exploratory data analysis (EDA) and the ability to extract insights from sports data.  
 
 
 🚀 Relevant Experience & Skills
