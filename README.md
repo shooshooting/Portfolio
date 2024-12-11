@@ -29,22 +29,23 @@ Highlights: Showcased exploratory data analysis (EDA) and the ability to extract
 
 While these projects illustrate my technical range, my professional experience has allowed me to apply these skills to real-world challenges, such as:
 
-Data Engineering: Designing scalable ETL pipelines and managing large datasets.
-Machine Learning: Building predictive models to optimize business outcomes, such as dynamic pricing and auction systems.
-Data Analytics: Conducting growth analyses, A/B testing, and developing dashboards for actionable insights.
-AI: Developing AI-driven products, including chatbots powered by Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs), to enhance customer experiences and automate processes.
-Tools & Technologies: Python, R, SQL, Tableau, GCP, Spark, and BigQuery.
+Data Engineering: Designing scalable ETL pipelines and managing large datasets.  
+Machine Learning: Building predictive models to optimize business outcomes, such as dynamic pricing and auction systems.  
+Data Analytics: Conducting growth analyses, A/B testing, and developing dashboards for actionable insights.  
+AI: Developing AI-driven products, including chatbots powered by Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs), to enhance customer experiences and automate processes.  
+Tools & Technologies: Python, R, SQL, Tableau, GCP, Spark, and BigQuery.  
 
 
 
-🎯 What I’m Looking For
-I am passionate about leveraging data to drive impactful decisions and empower innovation. My focus is on roles in:
+🎯 What I’m Looking For  
+I am passionate about leveraging data to drive impactful decisions and empower innovation. My focus is on roles in:  
 
-Data Science: Solving complex problems with machine learning and advanced analytics.
-Data Engineering: Building robust pipelines to ensure the accessibility and reliability of data.
-Data Analytics: Unlocking the potential of data by identifying trends, creating actionable reports, and developing visualizations that inform business strategies.
-AI Product Development: Designing and implementing AI-driven solutions, such as chatbots and predictive systems, to deliver measurable impact and enhance decision-making.
-📬 Let’s Connect
+Data Science: Solving complex problems with machine learning and advanced analytics.  
+Data Engineering: Building robust pipelines to ensure the accessibility and reliability of data.  
+Data Analytics: Unlocking the potential of data by identifying trends, creating actionable reports, and developing visualizations that inform business strategies.  
+AI Product Development: Designing and implementing AI-driven solutions, such as chatbots and predictive systems, to deliver measurable impact and enhance decision-making.  
+
+📬 Let’s Connect  
 I am always excited to discuss data-driven projects, share ideas, or collaborate! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shu-ting-lin/) or reach out via email at linshuting2016@gmail.com.
 
 
