@@ -4,6 +4,11 @@ Welcome to my data science portfolio! Here, you’ll find a collection of projec
 
 
 📊 Projects
+
+1. [Pioneering Generative AI for Education - National First PoC](https://github.com/shooshooting/Pioneering_Generative_AI_for_Education)  
+Description: Developed Taiwan's first generative AI Proof of Concept (PoC) for the education sector, integrating IBM Watsonx and large language models (LLMs).
+Skills & Tools: Python, Generative AI, IBM Watsonx, RAG (Retrieval-Augmented Generation), Chatbot Development, Customer Needs Analysis, Product Timeline Planning.
+
 1. [NBA Top Shot NFT Pricing with Machine Learning](https://github.com/shooshooting/NBA_TopShot_NFT_ML)  
 Description: Built predictive models to analyze and predict the pricing of NBA Top Shot NFTs using historical market data. This project provides pricing insights that could guide investment decisions in the NFT market.
 Skills & Tools: Python, Machine Learning (Random Forest, XGBoost), Data Cleaning, Feature Engineering, Visualization with Matplotlib and Seaborn.  
