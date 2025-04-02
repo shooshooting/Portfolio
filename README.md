@@ -1,4 +1,4 @@
-# Shuting Lin's Data Science Portfolio
+# Shuting Lin's Portfolio
 
 Welcome to my portfolio! Here, you’ll find a collection of projects that demonstrate my analytical skills and passion for solving complex problems in supply chain, logistics, and demand planning using data. While these projects reflect my versatility, I am particularly focused on roles in supply chain analytics, logistics analysis, and demand planning. Each project showcases a specific set of skills, methodologies, and tools relevant to data-driven decision-making in supply chain operations.
 
