@@ -4,15 +4,15 @@ Welcome to my portfolio! Here, you’ll find a collection of projects that demon
 
 📊 Projects
 
-1. [IBM Smart Mapping System for Procurement Optimization](https://github.com/shooshooting/Pioneering_Generative_AI_for_Education)  
+1. [IBM Smart Mapping System for Procurement Optimization]
 Description: Developed a part-number mapping system for procurement using Retrieval-Augmented Generation (RAG), reducing manual lookup time and improving part matching accuracy across suppliers.
 Skills & Tools: Python, Prompt Engineering, Supplier Data Mapping.
 Highlights: Streamlined procurement processes by automating part number translation across inconsistent naming conventions.
 
-2. [Supply Chain Risk Intelligence System - Paxafe](https://github.com/shooshooting/Pioneering_Generative_AI_for_Education)  
+2. [Supply Chain Risk Intelligence System - Paxafe]
 Description: Designed a system to monitor real-time supply chain disruptions such as natural disasters, protests, or accidents that could affect shipment routes. Used news APIs, geolocation filtering, and large language models to assess risk levels.Skills & Tools: Python, GDELT API, Geopy, OpenAI API, Risk Scoring Framework, LLM, JSON Parsing.Highlights: Enhanced supply chain visibility by detecting threats before shipment departure, improving preparedness and lead-time reliability.
 
-3. [Deloitte KPI Dashboard & Procurement Analysis](https://github.com/shooshooting/Pioneering_Generative_AI_for_Education)  
+3. [Deloitte KPI Dashboard & Procurement Analysis]
 Description: Built SQL-based dashboards and reports for a retail client to track procurement KPIs, and investigated a data error that impacted weekly reports.
 Skills & Tools: SQL, Power BI, Procurement Data, KPI Design, Data Validation.
 Highlights: Identified double-counted delayed shipments, documented the issue, and improved client reporting accuracy and trust.
