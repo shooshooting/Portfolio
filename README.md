@@ -9,8 +9,8 @@ Description: Developed a part-number mapping system for procurement using Retrie
 Skills & Tools: Python, Prompt Engineering, Supplier Data Mapping.
 Highlights: Streamlined procurement processes by automating part number translation across inconsistent naming conventions.
 
-2. [Supply Chain Risk Intelligence System - Paxafe]  
-Description: Designed a system to monitor real-time supply chain disruptions such as natural disasters, protests, or accidents that could affect shipment routes. Used news APIs, geolocation filtering, and large language models to assess risk levels.Skills & Tools: Python, GDELT API, Geopy, OpenAI API, Risk Scoring Framework, LLM, JSON Parsing.Highlights: Enhanced supply chain visibility by detecting threats before shipment departure, improving preparedness and lead-time reliability.
+2. [Supply Chain Risk Intelligence System - with Paxafe]  
+Description: Designed a system to monitor real-time supply chain disruptions. Skills & Tools: Python, API, Risk Scoring Framework, LLM. \
 
 3. [Deloitte KPI Dashboard & Procurement Analysis]  
 Description: Built SQL-based dashboards and reports for a retail client to track procurement KPIs, and investigated a data error that impacted weekly reports.
