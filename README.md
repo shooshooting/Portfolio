@@ -1,57 +1,57 @@
 # Shuting Lin's Portfolio
 
-Welcome to my portfolio!
-I am currently a Manufacturing & Automation Engineer at Foxconn, where I build data-driven systems for production analysis, automation workflows, and real-time decision support. My work bridges manufacturing operations, data analytics, and software tooling, with a focus on improving throughput, visibility, and process reliability across complex production lines.
+Welcome to my portfolio!  
+I am currently a Manufacturing & Automation Engineer at Foxconn, where I build data-driven systems for production analysis, automation workflows, and real-time decision support. My work bridges manufacturing operations, data analytics, and software tooling, with a focus on improving throughput, visibility, and process reliability across complex production lines.  
 
-While this portfolio includes past projects across supply chain, finance, and machine learning, my recent work centers on:
+While this portfolio includes past projects across supply chain, finance, and machine learning, my recent work centers on:  
 
-✅ Manufacturing Analytics & Production Insights
-✅ Factory Data Integration & Pipeline Design
-✅ Flask-based API Services for Production Machines
-✅ Dashboard & UI Development for Industrial Operations
-✅ Automation System Integration (WMS/WCS/MES/SAP/AGV/ASRS)
+✅ Manufacturing Analytics & Production Insights  
+✅ Factory Data Integration & Pipeline Design  
+✅ Flask-based API Services for Production Machines  
+✅ Dashboard & UI Development for Industrial Operations  
 
-I am currently pursuing roles in Data Analytics, Manufacturing Analytics, Supply Chain Analytics, Industrial Data Engineering, and Technical Product roles in data-intensive environments.
 
-🧩 Recent Foxconn Work — Production + Analytics + Automation
-1. Production Data Pipeline & Flask API Services
+I am currently pursuing roles in Data Analytics, Manufacturing Analytics, Supply Chain Analytics, Industrial Data Engineering, and Technical Product roles in data-intensive environments.  
 
-Description:
-Designed lightweight Flask APIs for machine data ingestion (screw machines, PCM, SPEA, TI inspections), integrating CSV/Log data into internal data lakes for real-time analysis.
+🧩 Recent Foxconn Work — Production + Analytics + Automation  
+1. Production Data Pipeline & Flask API Services  
 
-Skills & Tools:
-Python · Flask · CSV/Logs ingestion · SQLite · APIs · ETL
+Description:  
+Designed lightweight Flask APIs for machine data ingestion (screw machines, PCM, SPEA, TI inspections), integrating CSV/Log data into internal data lakes for real-time analysis.  
 
-Highlights:
+Skills & Tools:  
+Python · Flask · CSV/Logs ingestion · SQLite · APIs · ETL  
 
-Enabled automated inspection data collection instead of manual export
+Highlights:  
 
-Reduced troubleshooting time on defected SNs & production blockers
+Enabled automated inspection data collection instead of manual export  
 
-Provided data foundation for downstream risk & correlation models
+Reduced troubleshooting time on defected SNs & production blockers  
 
-2. Production Analytics Dashboard + UI
+Provided data foundation for downstream risk & correlation models  
 
-Description:
-Built a factory-facing analytics dashboard (HTML/CSS/JS + Flask backend) for multiple stakeholders including production planners, industrial engineers, quality, and management.
+2. Production Analytics Dashboard + UI  
+ 
+Description:  
+Built a factory-facing analytics dashboard (HTML/CSS/JS + Flask backend) for multiple stakeholders including production planners, industrial engineers, quality, and management.  
 
-Use Cases:
+Use Cases:  
 
-Batch traceability (SN-level)
+Batch traceability (SN-level)  
 
-TI/PCM correlation insights
+TI/PCM correlation insights  
 
-OTD Risk visualization
+OTD Risk visualization  
 
-Bottleneck identification (UPH, yield, downtime)
+Bottleneck identification (UPH, yield, downtime)  
 
-Investigation workflows (bad units, inspection failures)
+Investigation workflows (bad units, inspection failures)  
 
-Skills & Tools:
-Python Flask HTML/CSS/JS Plotly Jinja Manufacturing Data
+Skills & Tools:  
+Python Flask HTML/CSS/JS Plotly Jinja Manufacturing Data  
 
-Outcome:
-Improved visibility across multiple product lines & scheduling decisions.
+Outcome:  
+Improved visibility across multiple product lines & scheduling decisions.  
 
 
 
@@ -96,31 +96,31 @@ Highlights: Showcased exploratory data analysis (EDA) and the ability to extract
 
 
 
-🎯 Interests & What I’m Looking For
+🎯 Interests & What I’m Looking For  
 
-I enjoy solving operational problems with data.
-My areas of interest include:
+I enjoy solving operational problems with data.  
+My areas of interest include:  
 
-Manufacturing Analytics
+Manufacturing Analytics  
 
-Data Analytics & Decision Support
+Data Analytics & Decision Support  
 
-Factory Data Engineering
+Factory Data Engineering  
 
-Production Systems (MES/WMS/WCS/AGV/ASRS)
+Production Systems (MES/WMS/WCS/AGV/ASRS)  
 
-Supply Chain Analytics
+Supply Chain Analytics  
 
-Risk & Forecasting Models
+Risk & Forecasting Models  
 
-Industrial Automation & Digital Twins
+Industrial Automation & Digital Twins  
 
-I am particularly excited about roles that sit at the intersection of operations + data + software, and create measurable impact on throughput, scheduling, or system efficiency.
+I am particularly excited about roles that sit at the intersection of operations + data + software, and create measurable impact on throughput, scheduling, or system efficiency.  
 
-📬 Connect
+📬 Connect  
 
-LinkedIn: https://www.linkedin.com/in/shu-ting-lin/
+LinkedIn: https://www.linkedin.com/in/shu-ting-lin/  
 
-Email: linshuting2016@gmail.com
+Email: linshuting2016@gmail.com  ㄋ
 
 
