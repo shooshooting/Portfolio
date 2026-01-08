@@ -101,19 +101,14 @@ Highlights: Showcased exploratory data analysis (EDA) and the ability to extract
 I enjoy solving operational problems with data.  
 My areas of interest include:  
 
-Manufacturing Analytics  
+✅Manufacturing Analytics  
+✅Data Analytics & Decision Support  
+✅Factory Data Engineering  
+✅Production Systems (MES/WMS/WCS/AGV/ASRS)  
+✅Supply Chain Analytics  
+✅Risk & Forecasting Models  
+✅AI Agent
 
-Data Analytics & Decision Support  
-
-Factory Data Engineering  
-
-Production Systems (MES/WMS/WCS/AGV/ASRS)  
-
-Supply Chain Analytics  
-
-Risk & Forecasting Models  
-
-Industrial Automation & Digital Twins  
 
 I am particularly excited about roles that sit at the intersection of operations + data + software, and create measurable impact on throughput, scheduling, or system efficiency.  
 
