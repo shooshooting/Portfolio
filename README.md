@@ -1,6 +1,59 @@
 # Shuting Lin's Portfolio
 
-Welcome to my portfolio! Here, you’ll find a collection of projects that demonstrate my analytical skills and passion for solving complex problems in supply chain, logistics, and demand planning using data. While these projects reflect my versatility, I am particularly focused on roles in supply chain analytics, logistics analysis, and demand planning. Each project showcases a specific set of skills, methodologies, and tools relevant to data-driven decision-making in supply chain operations.
+Welcome to my portfolio!
+I am currently a Manufacturing & Automation Engineer at Foxconn, where I build data-driven systems for production analysis, automation workflows, and real-time decision support. My work bridges manufacturing operations, data analytics, and software tooling, with a focus on improving throughput, visibility, and process reliability across complex production lines.
+
+While this portfolio includes past projects across supply chain, finance, and machine learning, my recent work centers on:
+
+✅ Manufacturing Analytics & Production Insights
+✅ Factory Data Integration & Pipeline Design
+✅ Flask-based API Services for Production Machines
+✅ Dashboard & UI Development for Industrial Operations
+✅ Automation System Integration (WMS/WCS/MES/SAP/AGV/ASRS)
+
+I am currently pursuing roles in Data Analytics, Manufacturing Analytics, Supply Chain Analytics, Industrial Data Engineering, and Technical Product roles in data-intensive environments.
+
+🧩 Recent Foxconn Work — Production + Analytics + Automation
+1. Production Data Pipeline & Flask API Services
+
+Description:
+Designed lightweight Flask APIs for machine data ingestion (screw machines, PCM, SPEA, TI inspections), integrating CSV/Log data into internal data lakes for real-time analysis.
+
+Skills & Tools:
+Python · Flask · CSV/Logs ingestion · SQLite · APIs · ETL
+
+Highlights:
+
+Enabled automated inspection data collection instead of manual export
+
+Reduced troubleshooting time on defected SNs & production blockers
+
+Provided data foundation for downstream risk & correlation models
+
+2. Production Analytics Dashboard + UI
+
+Description:
+Built a factory-facing analytics dashboard (HTML/CSS/JS + Flask backend) for multiple stakeholders including production planners, industrial engineers, quality, and management.
+
+Use Cases:
+
+Batch traceability (SN-level)
+
+TI/PCM correlation insights
+
+OTD Risk visualization
+
+Bottleneck identification (UPH, yield, downtime)
+
+Investigation workflows (bad units, inspection failures)
+
+Skills & Tools:
+Python Flask HTML/CSS/JS Plotly Jinja Manufacturing Data
+
+Outcome:
+Improved visibility across multiple product lines & scheduling decisions.
+
+
 
 📊 Projects
 
@@ -10,7 +63,7 @@ Skills & Tools: Python, Prompt Engineering, Supplier Data Mapping.
 Highlights: Streamlined procurement processes by automating part number translation across inconsistent naming conventions.
 
 2. [Supply Chain Risk Intelligence System - with Paxafe]  
-Description: Designed a system to monitor real-time supply chain disruptions. Skills & Tools: Python, API, Risk Scoring Framework, LLM. \
+Description: Designed a system to monitor real-time supply chain disruptions. Skills & Tools: Python, API, Risk Scoring Framework, LLM. 
 
 3. [Deloitte KPI Dashboard & Procurement Analysis]  
 Description: Built SQL-based dashboards and reports for a retail client to track procurement KPIs, and investigated a data error that impacted weekly reports.
@@ -43,17 +96,31 @@ Highlights: Showcased exploratory data analysis (EDA) and the ability to extract
 
 
 
-🎯 What I’m Looking For  
-I am passionate about leveraging data to drive impactful decisions and empower innovation. My focus is on roles in:  
+🎯 Interests & What I’m Looking For
 
-- Supply Chain Analytics: Using data to monitor performance, reduce risk, and improve visibility.
-- Logistics Analysis: Supporting shipment tracking, exception detection, and delivery efficiency.
-- Demand Planning: Leveraging forecasting models to optimize inventory and respond to demand shifts.
-- Data Analytics: Unlocking the potential of data by identifying trends, creating actionable reports, and developing visualizations that inform business strategies.  
+I enjoy solving operational problems with data.
+My areas of interest include:
 
+Manufacturing Analytics
 
+Data Analytics & Decision Support
 
-📬 Let’s Connect  
-I am always excited to discuss data-driven projects, share ideas, or collaborate! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shu-ting-lin/) or reach out via email at linshuting2016@gmail.com.
+Factory Data Engineering
+
+Production Systems (MES/WMS/WCS/AGV/ASRS)
+
+Supply Chain Analytics
+
+Risk & Forecasting Models
+
+Industrial Automation & Digital Twins
+
+I am particularly excited about roles that sit at the intersection of operations + data + software, and create measurable impact on throughput, scheduling, or system efficiency.
+
+📬 Connect
+
+LinkedIn: https://www.linkedin.com/in/shu-ting-lin/
+
+Email: linshuting2016@gmail.com
 
 
